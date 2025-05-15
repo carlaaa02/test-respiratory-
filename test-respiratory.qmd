@@ -1,0 +1,18 @@
+---
+title: "test-respiratory"
+author: "Carla Quintanilla"
+format: html
+---
+
+```{r packages}
+library(tidyverse)
+library(lterdatasampler)
+```
+
+```{r}
+#testing code 
+numeros <- c(1,2,3,4,5,6)
+numeros_suma <- sum(numeros)
+numeros_suma
+```
+
